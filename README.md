@@ -8,7 +8,7 @@ $ apt update && apt upgrade -y
 
 $ pkg install git -y
 
-$ git clone https://github.com/KingHackers001
+$ git clone https://github.com/KingHackers001/Maskphish
 
 $ cd Maskphish
 
